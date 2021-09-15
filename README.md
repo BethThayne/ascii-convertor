@@ -6,3 +6,6 @@ You will also need to update/upgrade/install PILLOW - https://python-pillow.org/
 
 Create an Inputs folder where you can add your own images to convert to ASCII.
 The process.py file will create an outputs folder where you can see the results.
+
+
+You can change the letters and the colour in the `convert_to_ascii` and `ascii_img` methods.
